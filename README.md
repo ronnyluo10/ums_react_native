@@ -24,7 +24,3 @@
 7.	Jalankan perintah npm start
 8.	Download aplikasi expo di apps store maupun playstore
 9.	Setelah itu scan barcode yang ada di terminal
-
-Note: Masukkan semua file env yang ada di email ke dalam masing-masing folder root project dan di rename menjadi .env
-
-*Selamat mencoba, jika ada kendala bisa hubungi saya*
